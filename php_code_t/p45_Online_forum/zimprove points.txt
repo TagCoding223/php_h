@@ -1,0 +1,4 @@
+organize back button effect
+make a page for View All Categories
+use search page font style in all page
+allow user to add media file in any image video pdf doc or text format
